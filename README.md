@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-[AWS Documentation] (http://ec2-13-48-48-90.eu-north-1.compute.amazonaws.com/)
+[AWS Documentation](http://ec2-13-48-48-90.eu-north-1.compute.amazonaws.com/)
 
 ## Overview
 
