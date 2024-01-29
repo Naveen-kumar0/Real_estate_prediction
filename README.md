@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-
+[AWS Documentation] (http://ec2-13-48-48-90.eu-north-1.compute.amazonaws.com/)
 
 ## Overview
 
@@ -18,7 +18,6 @@ This repository contains code for a real estate price prediction model, implemen
 - `notebooks/`: Jupyter notebooks containing the code for data exploration, preprocessing, and model training.
 - `src/`: Python source code for the model and deployment scripts.
 - `data/`: Raw and processed datasets used in the project.
-- `images/`: Images used in the README file.
 
 ## Getting Started
 
