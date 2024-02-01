@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-[Real Estate price prediction](http://ec2-13-48-48-90.eu-north-1.compute.amazonaws.com/)
+[Real Estate price prediction](http://ec2-16-171-113-68.eu-north-1.compute.amazonaws.com/)
 
 ## Overview
 
